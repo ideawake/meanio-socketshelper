@@ -1,0 +1,9 @@
+{
+  "name": "socketshelper",
+  "version": "0.0.1",
+  "mean": "0.6.1",
+  "dependencies": {
+    "users": "0.1.x",
+    "circles": "0.1.x"
+  }
+}

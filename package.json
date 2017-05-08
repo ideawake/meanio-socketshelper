@@ -1,0 +1,19 @@
+{
+  "name": "socketshelper",
+  "version": "0.0.1",
+  "description": "Some description of sockets-helper",
+  "author": {
+    "name": "mean scaffold"
+  },
+  "mean": "0.6.1",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "3.x.x"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.7.1",
+    "socket.io-client": "^1.7.1"
+  }
+}
