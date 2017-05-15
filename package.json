@@ -1,7 +1,7 @@
 {
   "name": "meanio-socketshelper",
   "version": "0.0.1",
-  "description": "Some description of sockets-helper",
+  "description": "sockets-helper",
   "author": {
     "name": "mean scaffold"
   },
