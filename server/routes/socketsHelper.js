@@ -2,7 +2,7 @@
 
 /* jshint -W098 */
 // The Package is past automatically as first parameter
-module.exports = function(SocketsHelper, app, circles, database, io) {
+module.exports = function(SocketsHelper, app, io) {
 
   // app.get('/api/socketsHelper/example/anyone', function(req, res, next) {
   //   res.send('Anyone can access this');
